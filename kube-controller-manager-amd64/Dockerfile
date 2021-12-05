@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-controller-manager:v1.22.4
+FROM k8s.gcr.io/kube-controller-manager:v1.22.4
 MAINTAINER mritd <mritd@mritd.me>
